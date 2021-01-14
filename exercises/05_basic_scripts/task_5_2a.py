@@ -1,3 +1,4 @@
+from sys import argv
 ip_add = input('Введите ip-ceти в формате (10.1.1.0/24) : ')
 
 # действия с ip_адресом
